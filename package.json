@@ -1,0 +1,11 @@
+{
+  "name": "microfrontend-state-management",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/yaroslavx/microfronend-state-management.git",
+  "author": "Yaroslav Yakupov <yakupov.yaroslav@icloud.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  }
+}

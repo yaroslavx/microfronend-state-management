@@ -1,11 +1,11 @@
 import React from "react";
 import ReactDOM from "react-dom";
 import "./index.scss";
-import {Header} from "nav/Header";
+import { Header } from "nav/Header";
 
 const App = () => (
   <div className="mt-10 text-3xl mx-auto max-w-6xl">
-      <Header />
+    <Header />
     <div>Name: host</div>
   </div>
 );
